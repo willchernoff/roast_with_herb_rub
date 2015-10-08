@@ -4,12 +4,12 @@
 Recipe: Herb Encrusted Beef Roast
 
 Herb rub:
-4 tbsp Italian parsley leaves (no stems)
-2 tbsp garlic
-2 tbsp extra virgin olive oil
-1 tbsp country dijion mustard
-1 pinch salt
-1 pinch fresh ground black pepper
+* 4 tbsp Italian parsley leaves (no stems)
+* 2 tbsp garlic
+* 2 tbsp extra virgin olive oil
+* 1 tbsp country dijion mustard
+* 1 pinch salt
+* 1 pinch fresh ground black pepper
 
 Roast:
 2.53 lb Beef shoulder arm roast
