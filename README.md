@@ -1,4 +1,4 @@
-# Want to make an amazingly delicious roast? Me too! Let's do it together. Let's fork our way to a delicious meal.
+# Want to make an amazingly delicious roast? Me too! Let's do it together. Let's fork our way to one hell of a delicious meal.
 
 # Recipe: roast_with_herb_rub
 Recipe: Herb Encrusted Beef Roast
