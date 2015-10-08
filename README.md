@@ -32,4 +32,4 @@ Instructions for roast and herb rub:
 
 Roast images available on Instagram:
 
-![alt tag](http://imgur.com/9Exn47S)
+![alt tag](http://i.imgur.com/9Exn47S.jpg?1)
