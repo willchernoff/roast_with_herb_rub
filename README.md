@@ -30,6 +30,4 @@ Instructions for roast and herb rub:
 * Place herb covered roast into oven.
 * Bake roast for 40 minutes, less if desired.
 
-Roast images available on Instagram:
-
 ![alt tag](http://i.imgur.com/9Exn47S.jpg?1)
